@@ -6,7 +6,9 @@ Out of the box the toolset will contain
 
 * Master Layout have the basics of the document
 * Layout Components
-  * 
+  * athena-layout-standard (centered, 1 column)
+  * athena-layout-multicol (multicolumn)
+  * athena-layout-region (possibly)
 * Video
   * google-youtube
   * athena-vimeo
